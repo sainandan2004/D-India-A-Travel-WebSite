@@ -4,10 +4,6 @@ Here’s a draft for the README file for your D-India Tourist Guide Website proj
 
 # D-India - Tourist Guide Webpage
 
-## View the Project
-
-You can view the D-India Tourist Guide Website by following this [link](https://sainandan2004.github.io/D-India-A-Travel-WebSi/) prefer Google Chrome.
-
 ## Overview
 
 The D-India Tourist Guide Website is a comprehensive web application designed to assist users in exploring popular tourist destinations, attractions, and local services across India. The platform provides essential features for destination exploration, attraction details, and local service guidance, aiming to help users plan their trips effectively.
