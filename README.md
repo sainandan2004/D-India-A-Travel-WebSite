@@ -6,7 +6,7 @@ Here’s a draft for the README file for your D-India Tourist Guide Website proj
 
 ## View the Project
 
-You can view the D-India Tourist Guide Website by following this [link](https://sainandan2004.github.io/D-India-A-Travel-WebSite/) prefer Google Chrome.
+You can view the D-India Tourist Guide Website by following this [link](https://sainandan2004.github.io/D-India-A-Travel-WebSi/) prefer Google Chrome.
 
 ## Overview
 
